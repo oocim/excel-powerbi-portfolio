@@ -1,59 +1,84 @@
-# 📊 Data Entry & Data Processing Portfolio
+# 📊 Excel & Power BI Data Analytics Portfolio
 
-![Data Entry](https://img.shields.io/badge/Data_Entry-Professional-blue?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Experienced-success?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-Experienced-green?style=for-the-badge)
-![Spreadsheet Management](https://img.shields.io/badge/Spreadsheet_Management-Advanced-brightgreen?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Experienced-brightgreen?style=for-the-badge)
 
-Welcome! I'm **Mico Raphael F. Cuarto**, a Computer Science graduate with hands-on experience in **data entry, data processing, spreadsheet management, data validation, and data cleaning**. This repository showcases how I work with large structured datasets through academic and internship projects.
+Welcome! I'm **Mico Raphael F. Cuarto**, a Computer Science graduate with hands-on experience in **Microsoft Excel, Power BI, data processing, data cleaning, data validation, spreadsheet management, and reporting**.
 
-My goal is to demonstrate the skills I can bring to **Data Entry**, **Virtual Assistant**, **Administrative Support**, **Operations Support**, and **Data Processing** roles.
+This repository showcases how I work with large structured datasets—from data cleaning and preparation to **analysis, visualization, and reporting** using Excel and other data tools.
+
+My goal is to demonstrate the skills I can bring to **Data Analytics**, **Data Analyst**, **Data Processing**, **Data Quality**, **Reporting**, and **Operations Support** roles.
 
 ---
 
 ## 👨‍💻 About Me
 
-I have experience processing, organizing, cleaning, and validating large datasets while maintaining high levels of accuracy and consistency.
+I have experience processing, organizing, cleaning, validating, and preparing large datasets while maintaining high levels of accuracy and consistency.
 
-Throughout my internship and academic projects, I have worked with **15,000+ total records**, ensuring that data was properly structured for reporting, database integration, and system implementation.
+Throughout my internship and academic projects, I have worked with **15,000+ total records**, ensuring that data was properly structured for reporting, database integration, system implementation, and analysis.
 
-I enjoy organizing information, improving data quality, and building efficient workflows using spreadsheets, structured databases, and practical reporting outputs.
+I enjoy transforming raw and inconsistent information into **clean, organized, and reporting-ready datasets**. I am particularly interested in using **Excel and Power BI** to analyze data, create visual reports, and communicate useful insights.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📋 Data Entry & Data Processing
+### 📊 Microsoft Excel
 
-- Data Entry
-- Data Encoding
 - Data Cleaning
 - Data Validation
+- Data Transformation
 - Spreadsheet Management
-- Data Organization
-- Document Processing
-- Data Quality Assurance
-- Records Reconciliation
+- Pivot Tables
+- Pivot Charts
+- Sorting & Filtering
+- Conditional Formatting
+- Basic Formulas
+- XLOOKUP/VLOOKUP
+- Data Comparison
 - Reporting Preparation
+- Data Visualization
 
-### 📊 Tools
+### 📈 Power BI
 
-- Microsoft Excel
-  - Pivot Tables
-  - Sorting & Filtering
-  - Data Validation
-  - Conditional Formatting
-  - Basic Formulas
-  - XLOOKUP/VLOOKUP
+- Power BI
+- Power Query
+- Data Import & Preparation
+- Data Transformation
+- Data Modeling
+- DAX Fundamentals
+- Measures & Calculated Columns
+- Interactive Dashboards
+- Data Visualization
+- KPI Reporting
+- Filters & Slicers
+- Report Development
+
+### 🗄️ Data & Programming Tools
+
 - Google Sheets
 - SQL
 - PostgreSQL
 - Python
 - Jupyter Notebook
+
+### 📋 Data Processing
+
+- Data Entry
+- Data Encoding
+- Data Cleaning
+- Data Validation
+- Data Organization
+- Document Processing
+- Data Quality Assurance
+- Records Reconciliation
+- Reporting Preparation
 
 ---
 
@@ -80,7 +105,7 @@ GUIDE is a disaster risk management platform that uses geospatial and disaster-r
 
 ### Skills Demonstrated
 
-- Data Entry
+- Data Processing
 - Data Cleaning
 - Data Validation
 - Spreadsheet Management
@@ -109,10 +134,11 @@ Managed and prepared structured datasets used for system development and analysi
 
 ### Skills Demonstrated
 
-- Data Entry
+- Data Processing
 - Data Validation
 - Data Cleaning
 - Spreadsheet Organization
+- Dataset Management
 - Documentation
 
 ---
@@ -165,7 +191,7 @@ Managed and prepared structured datasets used for system development and analysi
 
 ### Project Overview
 
-This finished case study demonstrates a complete Microsoft Excel workflow for cleaning, validating, and preparing employee records for reporting.
+This finished case study demonstrates a complete **Microsoft Excel workflow** for cleaning, validating, analyzing, and preparing employee records for reporting.
 
 The project includes raw data review, duplicate handling, formatting cleanup, validation checks, and final reporting visuals built from the cleaned dataset.
 
@@ -191,6 +217,7 @@ The before-and-after screenshots below compare the same rows from the raw and cl
 - Reporting Preparation
 - Attention to Detail
 - Data Comparison
+- Data Visualization
 - Dashboard and Visual Reporting
 
 ### Impact
@@ -209,52 +236,52 @@ The before-and-after screenshots below compare the same rows from the raw and cl
 #### Comparison 1
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/excel/before-1.png" width="420" alt="Before cleaning comparison 1">
-      <br>
-      <strong>Before</strong>
-    </td>
-    <td align="center">
-      <img src="assets/excel/after-1.png" width="420" alt="After cleaning comparison 1">
-      <br>
-      <strong>After</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="assets/excel/before-1.png" width="420" alt="Before cleaning comparison 1">
+<br>
+<strong>Before</strong>
+</td>
+<td align="center">
+<img src="assets/excel/after-1.png" width="420" alt="After cleaning comparison 1">
+<br>
+<strong>After</strong>
+</td>
+</tr>
 </table>
 
 #### Comparison 2
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/excel/before-2.png" width="420" alt="Before cleaning comparison 2">
-      <br>
-      <strong>Before</strong>
-    </td>
-    <td align="center">
-      <img src="assets/excel/after-2.png" width="420" alt="After cleaning comparison 2">
-      <br>
-      <strong>After</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="assets/excel/before-2.png" width="420" alt="Before cleaning comparison 2">
+<br>
+<strong>Before</strong>
+</td>
+<td align="center">
+<img src="assets/excel/after-2.png" width="420" alt="After cleaning comparison 2">
+<br>
+<strong>After</strong>
+</td>
+</tr>
 </table>
 
 #### Comparison 3
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/excel/before-3.png" width="420" alt="Before cleaning comparison 3">
-      <br>
-      <strong>Before</strong>
-    </td>
-    <td align="center">
-      <img src="assets/excel/after-3.png" width="420" alt="After cleaning comparison 3">
-      <br>
-      <strong>After</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="assets/excel/before-3.png" width="420" alt="Before cleaning comparison 3">
+<br>
+<strong>Before</strong>
+</td>
+<td align="center">
+<img src="assets/excel/after-3.png" width="420" alt="After cleaning comparison 3">
+<br>
+<strong>After</strong>
+</td>
+</tr>
 </table>
 
 > These screenshots compare the same rows before and after cleanup to show how the workbook was standardized.
@@ -285,9 +312,32 @@ The before-and-after screenshots below compare the same rows from the raw and cl
 
 ### Summary
 
-The cleaned workbook shows the progression from raw, inconsistent records to a structured dataset ready for analysis, reporting, and presentation.
+The cleaned workbook shows the progression from raw, inconsistent records to a structured dataset ready for **analysis, reporting, and presentation**.
 
-Together, the comparison screenshots and visual outputs show my ability to clean data, preserve structure, and present results clearly.
+Together, the comparison screenshots and visual outputs show my ability to **clean data, preserve structure, analyze information, and present results clearly**.
+
+---
+
+# 📊 Power BI Portfolio
+
+Power BI projects will be added to this section as the portfolio is expanded.
+
+The planned workflow will demonstrate the progression from **data preparation → transformation → modeling → analysis → visualization → interactive reporting**.
+
+### Planned Skills Demonstrated
+
+- Power BI
+- Power Query
+- Data Transformation
+- Data Modeling
+- DAX
+- Measures
+- Calculated Columns
+- KPI Development
+- Interactive Visualizations
+- Slicers & Filters
+- Dashboard Design
+- Data Storytelling
 
 ---
 
@@ -306,10 +356,12 @@ A copy of my latest resume can be found in the **/resume** folder.
 
 # 📬 Contact
 
-**Email:**  
+**Email:**
+
 📧 cuartomicoraphael@gmail.com
 
-**GitHub:**  
+**GitHub:**
+
 🔗 https://github.com/oocim
 
 ---
@@ -319,17 +371,17 @@ A copy of my latest resume can be found in the **/resume** folder.
 I am currently seeking opportunities in:
 
 - Data Analytics
-- Data Entry
-- Virtual Assistant
-- Administrative Support
+- Data Analyst
 - Data Processing
 - Data Quality
+- Reporting & Business Intelligence
 - Operations Support
+- Administrative Support
 
-I am committed to delivering accurate, organized, and high-quality work while continuously learning and improving my skills.
+I am committed to delivering **accurate, organized, and actionable data** while continuously learning and improving my skills in **Excel, Power BI, SQL, and data analytics**.
 
 ---
 
 ## ⭐ Thank you for visiting!
 
-If you're looking for someone who is detail-oriented, organized, and experienced in handling structured datasets, I'd be happy to contribute to your team.
+If you're looking for someone who is **detail-oriented, analytical, organized, and experienced in handling structured datasets**, I'd be happy to contribute to your team.
