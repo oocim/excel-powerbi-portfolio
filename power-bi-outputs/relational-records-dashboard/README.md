@@ -19,7 +19,7 @@ The report is organized around three main themes:
 The project includes the following main files:
 
 - [Dashboard.pbix](Dashboard.pbix) — the Power BI dashboard file
-- [POWER_BI_DASHBOARD_DOCUMENTATION.md](README.md) — this documentation file
+- [README.md](README.md) — this documentation file
 
 These files together provide a complete view of the dashboard solution and its supporting documentation.
 
