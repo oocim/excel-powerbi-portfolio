@@ -20,10 +20,10 @@ Power BI is used to analyze the employee dataset, Power Apps provides an interfa
 
 ## 2. Project Files
 
-The project includes the following main files:
+The core files for this project are:
 
-- [Dashboard.pbix](Dashboard.pbix) — the Power BI dashboard file
-- [README.md](README.md) — this documentation file
+- `Dashboard.pbix` — the Power BI dashboard file
+- `README.md` — this documentation file
 
 The employee data and request data are used as the data sources for the Power BI and Power Apps portions of the project.
 
@@ -33,7 +33,7 @@ The employee data and request data are used as the data sources for the Power BI
 
 ## 3. Data Model
 
-The dashboard uses a relational data model built around a central employee fact table and supporting dimension tables.
+The reporting solution uses a relational structure built around an employee fact table and supporting dimension tables. This model makes the data easier to analyze and supports consistent filtering across the dashboard.
 
 ### Core Tables
 
@@ -56,7 +56,7 @@ The relationships between these tables allow the report to filter and aggregate 
 
 ## 4. Dashboard Pages
 
-The report contains three main pages.
+The report contains three main pages, each focused on a different part of the workforce story.
 
 ### Page 1: Executive Summary
 
